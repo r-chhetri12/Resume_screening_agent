@@ -1,4 +1,4 @@
-ResumeFit AI
+**ResumeFit AI**
 An AI-powered resume screening and improvement assistant built with
 Streamlit, LangGraph, LangChain, Pydantic, and Ollama.
 
